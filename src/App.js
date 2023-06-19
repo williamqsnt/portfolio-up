@@ -6,7 +6,6 @@ import Accueil from './components/Accueil';
 import Competences from './components/Competences';
 import Experiences from './components/Experiences';
 import Projets from './components/Projets';
-import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 function App() {
@@ -63,7 +62,7 @@ function App() {
           <Projets />
         </Section>
         <Section id="contact">
-          <Contact />
+         
         </Section>
         <Section>
           <Footer />
